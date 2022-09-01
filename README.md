@@ -1,5 +1,7 @@
 ﻿# BSDMF
 
+
+## Citation
 @article{Lin2017Bayesian,
 	title={Bayesian Hyperspectral and Multispectral Image Fusions via Double Matrix Factorization},
 	author={Lin, B. and Tao, X. and Xu, M. and Dong, L. and Lu, J.},
