@@ -6,7 +6,7 @@ Different from most previous works, the PSF is not required in the proposed mode
 Moreover, model parameters in our approach are less dependent on the input data sets and most of them can be learned automatically without manual intervention. Exhaustive experiments on three data sets verify that our approach shows excellent performance and more robustness to the noise with acceptable computational complexity, compared to other state-of-the-art methods.  
 
 ## Citation
-@article{Lin2017Bayesian,
+@article{Lin2017Bayesian,  
 	title={Bayesian Hyperspectral and Multispectral Image Fusions via Double Matrix Factorization},  
 	author={Lin, B. and Tao, X. and Xu, M. and Dong, L. and Lu, J.},  
 	journal={IEEE Trans. Geosci. and Remote Sens.},  
