@@ -1,4 +1,4 @@
-﻿# BSDMF
+﻿# Bayesian Hyperspectral and Multispectral Image Fusion via Double Matrix Factorization
 ## Abstract
 
 This paper focuses on fusing hyperspectral and multispectral images with an unknown arbitrary point spread function (PSF). Instead of obtaining the fused image based on the estimation of the PSF, a novel model is proposed without intervention of the PSF under Bayesian framework, in which the fused image is decomposed into double subspace-constrained matrix-factorization-based components and residuals. On the basis of the model, the fusion problem is cast as a minimum mean square error estimator of three factor matrices. Then, to approximate the posterior distribution of the unknowns efficiently, an estimation approach is developed based on variational Bayesian inference.  
